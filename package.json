@@ -1,0 +1,26 @@
+{
+  "name": "react_cdn_jsx-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.15.0",
+    "@babel/plugin-transform-react-jsx": "^7.14.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealsangwoohan/react_cdn_jsx-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therealsangwoohan/react_cdn_jsx-setup/issues"
+  },
+  "homepage": "https://github.com/therealsangwoohan/react_cdn_jsx-setup#readme"
+}
